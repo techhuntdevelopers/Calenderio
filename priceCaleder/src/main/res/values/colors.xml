@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="calendar_active_month_bg">#ffffff</color>
+    <color name="calendar_bg">#20314b</color>
+    <color name="calendar_divider">#00FFFFFF</color>
+    <color name="calendar_inactive_month_bg">#ffffff</color>
+    <color name="calendar_selected_day_bg">#ffcf40</color>
+    <color name="calendar_highlighted_day_bg">#ffcf40</color>
+    <color name="calendar_selected_range_bg">#ffcf40</color>
+    <color name="calendar_unavailable_bg">#ef5350</color>
+    <color name="calendar_range_middle_unavailable_bg">#ef5350</color>
+
+    <color name="colorPrimary">#7E20314B</color>
+    <color name="colorPrimaryDark" tools:ignore="MissingDefaultResource">#13283b</color>
+    <color name="colorAccent">#9E01C2A7</color>
+    <color name="colorAccentInverse">#FFFFFF</color>
+    <color name="primaryBackground">#20314b</color>
+    <color name="colorTextPrimary">#ffffff</color>
+    <color name="colorTextSecondary">#1d1d1d</color>
+    <color name="colorTextSecondaryGray">#566578</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="price_calendar_price_text_active">#ffff8a00</color>
+    <color name="calendar_today_bg">#ff778088</color>
+    <color name="calendar_text_title">#9E01C2A7</color>
+    <color name="calendar_text_today">#1C86EE</color>
+    <color name="calendar_text_week_head">#566578</color>
+    <color name="calendar_text_unselectable">#97999999</color>
+    <color name="calendar_text_inactive">#97999999</color>
+    <color name="calendar_text_active">#FFFFFF</color>
+    <color name="calendar_text_selected">#ffffff</color>
+    <color name="calendar_text_unselected">#97999999</color>
+    <color name="calendar_text_highlighted">#f5f5f5</color>
+</resources>
