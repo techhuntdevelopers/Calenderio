@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private PricePickerViews pricePickerView;
     private CalendarPickerViews pickerView;
     private BottomSheetDialog dialog = null;
+
     private Button price;
     private Button single;
     private Button multiple;
