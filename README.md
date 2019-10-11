@@ -1,6 +1,6 @@
 # Calenderio
 
-This library for calender with price tag.
+Usign calenderio to create calender with price tags.
 
 </br>
 
